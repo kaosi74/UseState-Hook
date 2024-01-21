@@ -1,0 +1,16 @@
+body {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.btnContainer {
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+  align-items: center;
+  justify-content: center;
+}
+button {
+    padding-inline: 10px;
+    padding-block: 10px;
+}
